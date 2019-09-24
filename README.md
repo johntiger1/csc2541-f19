@@ -24,5 +24,5 @@ Therefore any solution code you write _should not_ be pushed to a public fork (o
 * If you _do_ want to version your code and _do_ want to host it privately on github (this allows you to view source code on github.com, sync across machines, etc.), then you should follow the instructions below to duplicate (not fork) the repo.
 This will create a private copy where you can push freely.
 https://help.github.com/en/articles/duplicating-a-repository
-* If you _do_ want to verison your code but _do not_ care about hosting it on github, then you can simply clone this repo (instead of forking it). You can still use git locally, but you cannot push local changes since you do not have contributor permissions to this repo.
+* If you _do_ want to verison your code but _do not_ care about hosting it on github, then you can simply clone this repo (instead of forking it). You can still use git locally (commit, branch, etc.), but you cannot push local changes since you do not have contributor permissions to this repo.
 * If you _do not_ care about versioning your code then you can simply download this repo as a .zip folder and not worry about git.
