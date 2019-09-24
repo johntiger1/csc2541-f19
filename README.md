@@ -17,3 +17,10 @@ echo done with setup
 
 Executing the above commands may take some time.
 Halting `pip` commands using `Ctrl+C` is _not_ recommended.
+
+## Note on forking this repo
+Note that this is a public repo, which means that _all_ folks of this repo are also public. 
+Therefore any solution code you write _should not_ be pushed to a public fork (otherwise other students can see your solution!). 
+If you want to use git to version your code, then you should follow the instructions below to duplicate (not fork) the repo.
+This will create a private copy where you can push freely.
+https://help.github.com/en/articles/duplicating-a-repository
